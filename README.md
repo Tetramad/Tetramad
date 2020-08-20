@@ -25,6 +25,7 @@
 ![XML Badge](https://img.shields.io/badge/-XML-000000?style=flat)
 ![TOML Badge](https://img.shields.io/badge/-TOML-000000?style=flat)
 ![YAML Badge](https://img.shields.io/badge/-YAML-000000?style=flat)
+![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=FFFFFF)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF)
 
