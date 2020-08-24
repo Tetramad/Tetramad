@@ -11,7 +11,6 @@
 ### What I do now.
 - 42 cursus in 42 seoul
 - Learn about OS
-- Learn Haskell
 
 ### What I did.
 - Make games in JNU Game Development Club PIMM
