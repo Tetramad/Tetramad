@@ -1,3 +1,6 @@
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tetramad)](https://solved.ac/tetramad)
+
 ### Computer Science Wanderer
 - I didn't choose any specific domain now.
 
