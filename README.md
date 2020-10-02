@@ -1,8 +1,5 @@
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tetramad)](https://solved.ac/tetramad)
 
-### Computer Science Wanderer
-- I didn't choose any specific domain now.
-
 ### Multilingual Programmer Or Just Language Lover
 
 |Mainly use|![C99 Badge](https://img.shields.io/badge/-C99-A8B9CC?style=flat&logo=C&logoColor=FFFFFF) ![C++17 Badge](https://img.shields.io/badge/-C%2B%2B17-00599C?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![Python3 Badge](https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=Python&logoColor=FFFFFF) ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=FFFFFF)|
