@@ -1,9 +1,10 @@
 ### What I do now.
-- 42 cursus in 42 seoul
+- looking for interests.
 
 ### What I did.
 - Make games in JNU Game Development Club PIMM
 - Major Electronic Engineering
+- 42 cursus in 42 seoul
 
 ### Multilingual Programmer Or Just Language Lover
 
